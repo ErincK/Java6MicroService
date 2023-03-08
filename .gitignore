@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/AuthMicroService/build/
+/AuthMicroService/build/classes/java/main/

@@ -1,0 +1,3 @@
+rootProject.name = 'Java6MicroService'
+include 'AuthMicroService'
+
